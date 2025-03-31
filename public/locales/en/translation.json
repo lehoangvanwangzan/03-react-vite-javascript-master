@@ -1,8 +1,8 @@
 {
     "appHeader": {
-        "brand": "Hoi Dan IT",
+        "brand": "Hoàng Văn Tek",
         "home": "Home",
-        "project": "Project",
+        "project": "Products",
         "contact": "Contact",
         "about": "About"
     },
@@ -20,7 +20,7 @@
         "heading5": "Whenever possible, I also apply my passion for developing products with"
     },
     "experience": {
-        "title": "Experiences"
+        "title": "Dịch vụ"
     },
     "skill": {
         "title": "Skills"
